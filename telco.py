@@ -4,3 +4,5 @@ class Telephone :
         self.costperhour=costperhour
     def installationcost(self,hoursforinstallation):
         return hoursforinstallation*self.costperhour
+
+    #### added noted versin 02
